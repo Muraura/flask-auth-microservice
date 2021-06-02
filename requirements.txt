@@ -23,7 +23,7 @@ python-editor==1.0.3
 pytz==2017.3
 six==1.11.0
 SQLAlchemy==1.1.15
-urllib3==1.22
+urllib3==1.26.5
 Werkzeug==0.12.2
 requests
 gunicorn==19.7.1
